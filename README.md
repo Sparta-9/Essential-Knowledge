@@ -52,4 +52,20 @@ Just another Cyber Security Enthusiast.(sparta-9)
 
 009:https://t.me/c/1123439143/794
 
- 
+
+# Information
+
+
+⚡️What is bluesmack Attack?
+Bluesmack is a cyber attack done on bluetooth enabled devices. The attack uses L2CAP (Logic Link Control And Adaptation Protocol) layer to transfer an oversized packet to the Bluetooth enabled devices, resulting in the Denial of Service (DoS) attack.
+The attack can be performed in a very limited range, usually around 10 meters for the smartphones. For laptops, it can reach up to the 100 meters with powerful transmitters.
+
+⚡️Procedure For The Attack
+The hacker first uses the standard tools such as l2ping that come with Linux Bluex utils package.
+The I2ping tool further allows a hacker to specify the packet length with some commands. Due to this, the Bluetooth enabled devices are overwhelmed by the malicious requests from the hacker, causing the device to be inoperable by the victim.
+The attack atlast affects the regular operation of the victim device and can even degrades the performance of the device.
+
+⚡️How to Avoid Such Attack
+
+Turn the Bluetooth off when not in use. Do not store the permanent pairing PIN code on the device. Keep the Bluetooth off in public places, including restaurants, stores, airports, shopping malls, train stations, etc. If anything unusual is seen on the device, users can move to a new location to avoid this type of attack. When using Bluetooth, set the device to the hidden, or the non-discoverable mode.
+
