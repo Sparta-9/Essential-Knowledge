@@ -28,3 +28,28 @@ There are a-lot of great content and amazing prizes you really want to check it 
 
 Sincerely and Regards,
 Just another Cyber Security Enthusiast.(sparta-9)
+
+
+
+# Some Python Hacking tutorials :-
+
+
+001: https://t.me/c/1123439143/786
+
+002:https://t.me/c/1123439143/787
+
+003:https://t.me/c/1123439143/788
+
+004:https://t.me/c/1123439143/791
+
+005:https://t.me/c/1123439143/789
+
+006:https://t.me/c/1123439143/790
+
+007:https://t.me/c/1123439143/792
+
+008:https://t.me/c/1123439143/793
+
+009:https://t.me/c/1123439143/794
+
+ 
